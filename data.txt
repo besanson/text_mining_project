@@ -1,0 +1,11 @@
+Dear Stephen,
+
+Here are the link to the data set:
+
+http://sunlightfoundation.com/blog/2014/09/02/what-can-we-learn-from-800000-public-comments-on-the-fccs-net-neutrality-plan/#data
+
+=====
+NOTE: As mentioned in the README file the 6 zip files that are downloaded from that site have to be unziped into one file
+=====
+
+
